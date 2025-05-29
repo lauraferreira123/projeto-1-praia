@@ -1,0 +1,25 @@
+.banner{
+    width: 100%;
+    height: 600px;
+    background: url(../img/praia\ 1.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.margin{
+    margin-bottom: 0px;
+}
+
+.paddin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.praia1{
+    width: 100%;
+}
+
+.praia1 img{
+    width: 100%;
+}
